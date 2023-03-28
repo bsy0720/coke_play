@@ -1,0 +1,83 @@
+{
+    "items":[
+        {
+            "id":952,
+            "sort":[1,2,3,4],
+            "snippet":{
+                "thumbnails":{
+                    "small":{
+                        "url":"./assets/images/dr_pepper.jpg"
+                    },
+                    "high":{
+                        "url":"https://prod-bs010630-cloudfronts3content-eqhya5et6x.s3.ap-northeast-1.amazonaws.com/prod/normal/202302/7e290811-2861-47e1-8f23-8325e03635d8.jpg"
+                    }
+                },
+                "title":"[오싸데이]닥터페퍼 제로 355CAN X24 (마우스패드 증정)",
+                "price":{
+                    "ori":20500,
+                    "curr":17500,
+                    "discount":12
+                },
+                "point":222,
+                "detail":[
+                    "https://prod-bs010630-cloudfronts3content-eqhya5et6x.s3.ap-northeast-1.amazonaws.com/ckEditor/image/202301/4655f5cc-aa29-4ba6-ba22-82888a267ea8.jpg",
+                    "https://prod-bs010630-cloudfronts3content-eqhya5et6x.s3.ap-northeast-1.amazonaws.com/ckEditor/image/202301/ef979be4-dd84-4ef9-a204-a7d56935e9b6.jpg",
+                    "https://prod-bs010630-cloudfronts3content-eqhya5et6x.s3.ap-northeast-1.amazonaws.com/ckEditor/image/202301/28246bf2-715c-4b65-b096-541d405e029f.jpg"
+                ]
+
+            }
+        },
+        {
+            "id":953,
+            "sort":[1,2],
+            "snippet":{
+                "thumbnails":{
+                    "small":{
+                        "url":"./assets/images/zero_coke.jpg"
+                    },
+                    "high":{
+                        "url":"https://prod-bs010630-cloudfronts3content-eqhya5et6x.s3.ap-northeast-1.amazonaws.com/prod/normal/202302/04e229a9-3f44-4577-96d1-d2f40a4f17a8.png"
+                    }
+                },
+                "title":"코카-콜라 제로 355CAN X24",
+                "price":{
+                    "ori":23300,
+                    "curr":0,
+                    "discount":0
+                },
+                "point":13980,
+                "detail":[
+                    "https://prod-bs010630-cloudfronts3content-eqhya5et6x.s3.ap-northeast-1.amazonaws.com/ckEditor/image/202302/33a1214b-2280-4ddd-bfca-abcada180f19.jpg",
+                    "https://ai.esmplus.com/cokemall/eunhye/main.jpg"
+                ]
+
+            }
+        },
+        {
+            "id":954,
+            "sort":[1,3,4],
+            "snippet":{
+                "thumbnails":{
+                    "small":{
+                        "url":"./assets/images/fanta.png"
+                    },
+                    "high":{
+                        "url":"https://prod-bs010630-cloudfronts3content-eqhya5et6x.s3.ap-northeast-1.amazonaws.com/prod/normal/202301/b34f7c25-034b-4c97-9f02-854263f3cbd2.png"
+                    }
+                },
+                "title":"환타 제로 포토향 355CAN X24",
+                "price":{
+                    "ori":20300,
+                    "curr":0,
+                    "discount":0
+                },
+                "point":13980,
+                "detail":[
+                    "https://prod-bs010630-cloudfronts3content-eqhya5et6x.s3.ap-northeast-1.amazonaws.com/ckEditor/image/202301/f11efb87-c1b9-4390-b8a6-52fba811d6d3.jpg",
+                    "http://ai.esmplus.com/cokemall/eunhye/main.jpg"
+                ]
+
+            }
+        }
+    ]
+}

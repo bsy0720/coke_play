@@ -1,0 +1,35 @@
+.blind{
+  display: block;
+  width: 1px;
+  height: 1px;
+  clip: rect(0,0,0,0);
+  overflow: hidden;
+  margin: -1px;
+}
+.hidden{overflow: hidden;}
+
+.wrapper{
+  max-width: 1024px;
+  margin: 0 auto;
+  background: #fff;
+}
+
+.container{
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+.headline{
+  font-size: 18px;
+  font-weight: bold;
+  line-height: 26px;
+}
+.btn-more{
+  margin: 0 20px;
+  padding: 15px 0;
+  width: calc(100% - 40px);
+  border-top: 1px solid #f7f7f7;
+  font-size: 14px;
+  color: #bbb;
+  font-weight: 600;
+}
