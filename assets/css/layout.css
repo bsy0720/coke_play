@@ -19,7 +19,7 @@
   height: 64px;
   background: url(../images/top_banner_bg.png) no-repeat;
   background-position: center;
-  background-size: 100%;
+  background-size: cover;
 }
 .banner .inner{
   display: flex;
